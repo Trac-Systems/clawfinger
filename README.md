@@ -1,4 +1,5 @@
-# Clawfinger
+# Clawfinger <img width="256" height="256" alt="image" align="right" src="https://github.com/user-attachments/assets/dee33546-0c11-4404-830c-ca6fb610a275" />
+
 
 **A true local gateway for agentic phone control.**
 
